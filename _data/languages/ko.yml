@@ -59,9 +59,9 @@ counter:
     other: "총 %d개의 카테고리"
 
   archive_posts:
-    zero: 포스트 없음
-    one: 1개의 포스트
-    other: "총 %d개의 포스트"
+    zero: 포스트가 없습니다.
+    one: 1개의 포스트가 있습니다.
+    other: "총 %d개의 포스트가 있습니다."
 
 state:
   posts: 포스트
