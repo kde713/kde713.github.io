@@ -9,7 +9,9 @@ tags:
 ---
 
 > 원본 문서
+>
 > *[Heehong Moon - SPA 개발에서 고려할 사항](https://medium.com/@bbirec/spa-single-page-application-%EA%B0%9C%EB%B0%9C%EC%97%90%EC%84%9C-%EA%B3%A0%EB%A0%A4%ED%95%A0-%EC%82%AC%ED%95%AD-eedcb7cb618f)*
+>
 > *[로드스타 - SPA 도입 시 필수 고려 사항](https://eapp.tistory.com/entry/SPA-%EB%8F%84%EC%9E%85%EC%8B%9C-%ED%95%84%EC%88%98-%EA%B3%A0%EB%A0%A4%EC%82%AC%ED%95%AD)*
 
 
